@@ -353,7 +353,15 @@
     "Image/Topic/Mouse": 3,
     "Imate": 56,
     "Imate/Style": 1,
-    "Imate/Style/Illustration": 1
+    "Imate/Style/Illustration": 1,
+    "excalidraw": 57,
+    "General": 58,
+    "Engineers": 59,
+    "Ships": 60,
+    "pilot-equipment": 61,
+    "weapons": 62,
+    "Pilot-equipment": 63,
+    "Weapons": 64
   },
   "_version": 3
 }

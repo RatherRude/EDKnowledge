@@ -4,22 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "b2be5f749d8a4808",
+        "id": "8c884521cd21271c",
         "type": "tabs",
         "children": [
           {
-            "id": "4777202ed97cbffc",
+            "id": "9d25338c1eaa85db",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "DATA/People/The Dweller.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Welcome"
+              "title": "The Dweller"
             }
           }
         ]
@@ -94,10 +94,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Welcome.md"
+                "file": "DATA/People/The Dweller.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Welcome"
+              "title": "File properties for The Dweller"
             }
           },
           {
@@ -192,8 +192,7 @@
               "title": "Strange New Worlds"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -217,15 +216,34 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "8f01bb54e4b30909",
+  "active": "9d25338c1eaa85db",
   "lastOpenFiles": [
-    "Exclude/Excalidraw",
-    "Exclude/Excalibrain",
-    "Exclude",
+    "Index.md",
+    "DATA/People/The Dweller.md",
+    "DATA/General/Engineers.md",
+    "DATA/General",
+    "DATA/People",
+    "Exclude/Excalibrain/excalibrain.md",
+    "Reference-Only/Galnet/Galnet-3300/Galnet-3300-12.md",
+    "Reference-Only/Galnet/Galnet-3304",
+    "Reference-Only/Galnet/Galnet-3303",
+    "Reference-Only/Galnet/Galnet-3302",
+    "Reference-Only/Galnet/Galnet-3301",
+    "Reference-Only/Galnet/Galnet-3300/Galnet-3300-10.md",
+    "Reference-Only/Galnet/Galnet-3300/Galnet-3300-09.md",
+    "Reference-Only/Galnet/Galnet-3300/Galnet-3300-08.md",
+    "Reference-Only/Galnet/Galnet-3300/Galnet-3300-11.md",
+    "Reference-Only/Galnet/Galnet-3300/Galnet-3300-06.md",
+    "Reference-Only/Galnet/Galnet-3300.md",
+    "Reference-Only/Galnet/Galnet by Year.md",
+    "Reference-Only/Galnet/Galnet-3300",
+    "Reference-Only/Galnet/Galnet-3300/Galnet-3300-07.md",
+    "Exclude/Template/NewNote.md",
+    "Reference-Only/DO NOT USE.md",
+    "Reference-Only/Galnet",
+    "DATA",
+    "Exclude/Template",
     "AI-TMP/BMO/Profiles/BMO.md",
-    "AI-TMP/BMO/Profiles",
-    "AI-TMP/BMO",
-    "AI-TMP",
     "Temporary/Image Links - Anime.md",
     "Temporary/Image Links - Real Girl.md",
     "Temporary/Image Links - Drawings.md",
@@ -234,31 +252,12 @@
     "Temporary/Image Links - Contests.md",
     "Temporary/Image Links - Cyberpunk.md",
     "AI Images/mimu2023-01.md",
-    "Temporary",
     "Files/Pasted image 20241213005542.png",
     "AI Images/JustAMouse-01.md",
     "Files/Img-JustAMouse-01.png",
     "AI Images/DigitalArtMatrix-01.md",
-    "AI Images/ChameleonAI-01.md",
     "Files/Img-DigitalArtMatrix-01.png",
-    "Template/ImageNote.md",
     "Files/Img-ChameleonAI-01.png",
-    "Clippings/Untitled.md",
-    "Canvas/Untitled.canvas",
-    "3D Images/Untitled.md",
-    "Main Thought.md",
-    "AI Images",
-    "3D Images",
-    "Template/NewNote.md",
-    "Template",
-    "untitled folder",
-    "AI-TMP/textgenerator/templates/awesomePrompts/technologytransfererAwesome.md",
-    "AI-TMP/textgenerator/templates/awesomePrompts/legaladvisorAwesome.md",
-    "AI-TMP/textgenerator/templates/awesomePrompts/chatgptpromptgeneratorAwesome.md",
-    "AI-TMP/textgenerator/templates/awesomePrompts/startuptechlawyerAwesome.md",
-    "AI-TMP/textgenerator/templates/awesomePrompts/philosopherAwesome.md",
-    "AI-TMP/textgenerator/templates/awesomePrompts/timetravelguideAwesome.md",
-    "AI-TMP/textgenerator/templates/awesomePrompts/academicianAwesome.md",
-    "AI-TMP/textgenerator/templates/awesomePrompts/relationshipcoachAwesome.md"
+    "Canvas/Untitled.canvas"
   ]
 }
