@@ -1,0 +1,264 @@
+{
+  "main": {
+    "id": "95984f3f9f980028",
+    "type": "split",
+    "children": [
+      {
+        "id": "b2be5f749d8a4808",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4777202ed97cbffc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Welcome.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Welcome"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a5a9ea794a9af43c",
+    "type": "split",
+    "children": [
+      {
+        "id": "c6d9da063cedb9e8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c26f3cc532ce7e9a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "02a9ae884e1c22aa",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "2fb5f67f4da9e451",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "944d3fa41769b184",
+    "type": "split",
+    "children": [
+      {
+        "id": "cde1af0e1070d2c7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "62cff0776e8c0322",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "Welcome.md"
+              },
+              "icon": "lucide-info",
+              "title": "File properties for Welcome"
+            }
+          },
+          {
+            "id": "c4d234c1c316345b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Temporary/Image Links - Cyberpunk.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Image Links - Cyberpunk"
+            }
+          },
+          {
+            "id": "292902c53d84ea82",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Welcome.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Welcome"
+            }
+          },
+          {
+            "id": "8f01bb54e4b30909",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "d71167a639f068c9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Temporary/Image Links - Cyberpunk.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Image Links - Cyberpunk"
+            }
+          },
+          {
+            "id": "2a698c40981348fe",
+            "type": "leaf",
+            "state": {
+              "type": "Strange New Worlds",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "06147a3022eb4266",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "bf2f690e11d9a82b",
+            "type": "leaf",
+            "state": {
+              "type": "Strange New Worlds",
+              "state": {},
+              "icon": "file-digit",
+              "title": "Strange New Worlds"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "command-palette:Open command palette": false,
+      "templates:Insert template": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "audio-recorder:Start/stop recording": false,
+      "workspaces:Manage workspace layouts": false,
+      "3d-graph:3D Graph": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "callout-manager:Insert Callout": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-pending-notes:Pending Notes": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "8f01bb54e4b30909",
+  "lastOpenFiles": [
+    "Exclude/Excalidraw",
+    "Exclude/Excalibrain",
+    "Exclude",
+    "AI-TMP/BMO/Profiles/BMO.md",
+    "AI-TMP/BMO/Profiles",
+    "AI-TMP/BMO",
+    "AI-TMP",
+    "Temporary/Image Links - Anime.md",
+    "Temporary/Image Links - Real Girl.md",
+    "Temporary/Image Links - Drawings.md",
+    "Temporary/Image Links - Scenery.md",
+    "Temporary/Image Links - Animals.md",
+    "Temporary/Image Links - Contests.md",
+    "Temporary/Image Links - Cyberpunk.md",
+    "AI Images/mimu2023-01.md",
+    "Temporary",
+    "Files/Pasted image 20241213005542.png",
+    "AI Images/JustAMouse-01.md",
+    "Files/Img-JustAMouse-01.png",
+    "AI Images/DigitalArtMatrix-01.md",
+    "AI Images/ChameleonAI-01.md",
+    "Files/Img-DigitalArtMatrix-01.png",
+    "Template/ImageNote.md",
+    "Files/Img-ChameleonAI-01.png",
+    "Clippings/Untitled.md",
+    "Canvas/Untitled.canvas",
+    "3D Images/Untitled.md",
+    "Main Thought.md",
+    "AI Images",
+    "3D Images",
+    "Template/NewNote.md",
+    "Template",
+    "untitled folder",
+    "AI-TMP/textgenerator/templates/awesomePrompts/technologytransfererAwesome.md",
+    "AI-TMP/textgenerator/templates/awesomePrompts/legaladvisorAwesome.md",
+    "AI-TMP/textgenerator/templates/awesomePrompts/chatgptpromptgeneratorAwesome.md",
+    "AI-TMP/textgenerator/templates/awesomePrompts/startuptechlawyerAwesome.md",
+    "AI-TMP/textgenerator/templates/awesomePrompts/philosopherAwesome.md",
+    "AI-TMP/textgenerator/templates/awesomePrompts/timetravelguideAwesome.md",
+    "AI-TMP/textgenerator/templates/awesomePrompts/academicianAwesome.md",
+    "AI-TMP/textgenerator/templates/awesomePrompts/relationshipcoachAwesome.md"
+  ]
+}
